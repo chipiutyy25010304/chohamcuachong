@@ -1,14 +1,14 @@
 const msgs = [
-    "Are you sure?",
-    "Are you really sure?",
-    "Are you really really sure?",
-    "Pretty pleaseeeee?",
-    "Pretty pretty pleaseeeee?",
-    "If you say no, I will be very sad...",
-    "I will be very sad...",
-    "I will be very very sad...",
-    "Okay, I'm done...you can go now.",
-    "Just kidding, say yes please! 🩷"
+    "Em chắc chưa?",
+    "Em chắc chắn chưa?",
+    "Thật à hâm?",
+    "Đừng mò?",
+    "Đừng mòoooo?",
+    "Anh sẽ buồn đấy",
+    "Buồn nhắm đấy...",
+    "Huhu",
+    "Được ròi:<",
+    "Đùa hui, đồng ý đi mà>< 🩷"
 ]
 
 let msgIndex = 0;
